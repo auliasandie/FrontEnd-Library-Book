@@ -1,0 +1,25 @@
+nav .brand-logo.right {
+    right: 1.5rem !important;
+    padding: 0;
+}
+
+.btn.btn-login{
+    text-decoration: none;
+    color: #fff;
+    background-color: black;
+    text-align: center;
+    letter-spacing: .5px;
+    transition: background-color .2s ease-out;
+    cursor: pointer;
+}
+
+.btn.modal-trigger{
+    text-decoration: none;
+    color: #fff;
+    background-color: black;
+    text-align: center;
+    letter-spacing: .5px;
+    transition: background-color .2s ease-out;
+    cursor: pointer;
+}
+
